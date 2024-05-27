@@ -65,5 +65,3 @@ Replace `path_to_script.py` with the actual path to the script if not running fr
 - Check the `OPENAI_API_KEY` environment variable if there are issues with accessing the OpenAI services.
 
 ```
-
-This README.md file provides a comprehensive guide for setting up and running your video to text transcription project. It includes clear instructions on prerequisites, installation, and usage, making it easy for users to get started with the script.
